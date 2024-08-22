@@ -1,0 +1,7 @@
+{
+    "/api/*": {
+        "target": "http://student-api.us-west-2.elasticbeanstalk.com/student",
+        "secure": false,
+        "logLevel": "debug"
+    }
+}
